@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "431557432654",
+    "firebase_url": "https://flash-chat-b615e.firebaseio.com",
+    "project_id": "flash-chat-b615e",
+    "storage_bucket": "flash-chat-b615e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431557432654:android:87efd02143deadcea8ba1f",
+        "android_client_info": {
+          "package_name": "co.BridgetBaksa.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431557432654-m9e0jmc02k1uhgspknj5kh6be7jnrub9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbB16Lf9CAGFf0O9yt76KKuH1tteZn3aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431557432654-m9e0jmc02k1uhgspknj5kh6be7jnrub9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
